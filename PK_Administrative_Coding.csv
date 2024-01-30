@@ -1,516 +1,578 @@
-P_Code,Province,D_Code,Division,D_Code_A,D_Code_N,District,T_Code_AN,T_Code_N,Tehsil,Completed
-BA,Balochistan,BAKA,Kalat,BAKAAW,920101,Awaran,BA0101,92010101,Awaran,
-BA,Balochistan,BAKA,Kalat,BAKAAW,920101,Awaran,BA0102,92010102,Jhal Jahoo,
-BA,Balochistan,BAKA,Kalat,BAKAAW,920101,Awaran,BA0103,92010103,Mashkai,
-BA,Balochistan,BAKA,Kalat,BAKAKA,920109,Kalat,BA0901,92010901,Gazg S/T,
-BA,Balochistan,BAKA,Kalat,BAKAKA,920109,Kalat,BA0902,92010902,Johan S/T,
-BA,Balochistan,BAKA,Kalat,BAKAKA,920109,Kalat,BA0903,92010903,Kalat,
-BA,Balochistan,BAKA,Kalat,BAKAKA,920109,Kalat,BA0904,92010904,Mangochar S/T,
-BA,Balochistan,BAKA,Kalat,BAKAKA,920109,Kalat,BA0905,92010905,Surab,
-BA,Balochistan,BAKA,Kalat,BAKAKH,920111,Kharan,BA1101,92011101,Besima S/T,
-BA,Balochistan,BAKA,Kalat,BAKAKH,920111,Kharan,BA1102,92011102,Kharan,
-BA,Balochistan,BAKA,Kalat,BAKAKH,920111,Kharan,BA1103,92011103,Mashkhel S/T,
-BA,Balochistan,BAKA,Kalat,BAKAKH,920111,Kharan,BA1104,92011104,Nag S/T,
-BA,Balochistan,BAKA,Kalat,BAKAKR,920113,Khuzdar,BA1301,92011301,Aranji S/T,
-BA,Balochistan,BAKA,Kalat,BAKAKR,920113,Khuzdar,BA1302,92011302,Karakh S/T,
-BA,Balochistan,BAKA,Kalat,BAKAKR,920113,Khuzdar,BA1303,92011303,Khuzdar,
-BA,Balochistan,BAKA,Kalat,BAKAKR,920113,Khuzdar,BA1304,92011304,Moola S/T,
-BA,Balochistan,BAKA,Kalat,BAKAKR,920113,Khuzdar,BA1305,92011305,Nal S/T,
-BA,Balochistan,BAKA,Kalat,BAKAKR,920113,Khuzdar,BA1306,92011306,Ornach S/T,
-BA,Balochistan,BAKA,Kalat,BAKAKR,920113,Khuzdar,BA1307,92011307,Saroona S/T,
-BA,Balochistan,BAKA,Kalat,BAKAKR,920113,Khuzdar,BA1308,92011308,Wadh S/T,
-BA,Balochistan,BAKA,Kalat,BAKAKR,920113,Khuzdar,BA1309,92011309,Zehri,
-BA,Balochistan,BAKA,Kalat,BAKALA,920116,Lasbela,BA1601,92011601,Bela,
-BA,Balochistan,BAKA,Kalat,BAKALA,920116,Lasbela,BA1602,92011602,Dureji,
-BA,Balochistan,BAKA,Kalat,BAKALA,920116,Lasbela,BA1603,92011603,Gadani S/T,
-BA,Balochistan,BAKA,Kalat,BAKALA,920116,Lasbela,BA1604,92011604,Hub,
-BA,Balochistan,BAKA,Kalat,BAKALA,920116,Lasbela,BA1605,92011605,Kanraj,
-BA,Balochistan,BAKA,Kalat,BAKALA,920116,Lasbela,BA1606,92011606,Lakhra,
-BA,Balochistan,BAKA,Kalat,BAKALA,920116,Lasbela,BA1607,92011607,Liari S/T,
-BA,Balochistan,BAKA,Kalat,BAKALA,920116,Lasbela,BA1608,92011608,Sonmiani/Winder,
-BA,Balochistan,BAKA,Kalat,BAKALA,920116,Lasbela,BA1609,92011609,Uthal,
-BA,Balochistan,BAKA,Kalat,BAKAMA,920118,Mastung,BA1801,92011801,Dasht,
-BA,Balochistan,BAKA,Kalat,BAKAMA,920118,Mastung,BA1802,92011802,Khad Koocha S/T,
-BA,Balochistan,BAKA,Kalat,BAKAMA,920118,Mastung,BA1803,92011803,Kirdgap S/T,
-BA,Balochistan,BAKA,Kalat,BAKAMA,920118,Mastung,BA1804,92011804,Mastung,
-BA,Balochistan,BAKA,Kalat,BAKAWA,920130,Washuk,BA3001,92013001,Washuk,
-BA,Balochistan,BAMA,Makran,BAMAGW,920106,Gwadar,BA0601,92010601,Gwadar,
-BA,Balochistan,BAMA,Makran,BAMAGW,920106,Gwadar,BA0602,92010602,Jiwani,
-BA,Balochistan,BAMA,Makran,BAMAGW,920106,Gwadar,BA0603,92010603,Ormara,
-BA,Balochistan,BAMA,Makran,BAMAGW,920106,Gwadar,BA0604,92010604,Pasni,
-BA,Balochistan,BAMA,Makran,BAMAGW,920106,Gwadar,BA0605,92010605,Suntsar S/T,
-BA,Balochistan,BAMA,Makran,BAMAKE,920110,Kech (Turbat),BA1001,92011001,Balnigor S/T,
-BA,Balochistan,BAMA,Makran,BAMAKE,920110,Kech (Turbat),BA1002,92011002,Buleda S/T,
-BA,Balochistan,BAMA,Makran,BAMAKE,920110,Kech (Turbat),BA1003,92011003,Dasht S/T,
-BA,Balochistan,BAMA,Makran,BAMAKE,920110,Kech (Turbat),BA1004,92011004,Hoshab S/T,
-BA,Balochistan,BAMA,Makran,BAMAKE,920110,Kech (Turbat),BA1005,92011005,Kech,
-BA,Balochistan,BAMA,Makran,BAMAKE,920110,Kech (Turbat),BA1006,92011006,Mand S/T,
-BA,Balochistan,BAMA,Makran,BAMAKE,920110,Kech (Turbat),BA1007,92011007,Tump,
-BA,Balochistan,BAMA,Makran,BAMAKE,920110,Kech (Turbat),BA1008,92011008,Zamuran S/T,
-BA,Balochistan,BAMA,Makran,BAMAPA,920122,Panjgur,BA2201,92012201,Gichk S/T,
-BA,Balochistan,BAMA,Makran,BAMAPA,920122,Panjgur,BA2202,92012202,Gowargo,
-BA,Balochistan,BAMA,Makran,BAMAPA,920122,Panjgur,BA2203,92012203,Panjgur,
-BA,Balochistan,BAMA,Makran,BAMAPA,920122,Panjgur,BA2204,92012204,Parome S/T,
-BA,Balochistan,BANA,Nasirabad,BANAKA,920103,Kachi,BA0302,92010302,Dhadar,
-BA,Balochistan,BANA,Nasirabad,BANAKA,920103,Kachi,BA0303,92010303,Khattan,
-BA,Balochistan,BANA,Nasirabad,BANAKA,920103,Kachi,BA0304,92010304,Mach,
-BA,Balochistan,BANA,Nasirabad,BANAKA,920103,Kachi,BA0305,92010305,Sani,
-BA,Balochistan,BANA,Nasirabad,BANAJA,920107,Jafarabad,BA0701,92010701,Gandaka S/T,
-BA,Balochistan,BANA,Nasirabad,BANAJA,920107,Jafarabad,BA0702,92010702,Jhat Pat,
-BA,Balochistan,BANA,Nasirabad,BANAJA,920107,Jafarabad,BA0703,92010703,Panhwar S/T,
-BA,Balochistan,BANA,Nasirabad,BANAJA,920107,Jafarabad,BA0704,92010704,Usta Mohammad,
-BA,Balochistan,BANA,Nasirabad,BANAJH,920108,Jhal Magsi,BA0801,92010801,Gandawa,
-BA,Balochistan,BANA,Nasirabad,BANAJH,920108,Jhal Magsi,BA0802,92010802,Jhal Magsi,
-BA,Balochistan,BANA,Nasirabad,BANANA,920120,Nasirabad,BA2001,92012001,Chattar,
-BA,Balochistan,BANA,Nasirabad,BANANA,920120,Nasirabad,BA2002,92012002,D.M.Jamali,
-BA,Balochistan,BANA,Nasirabad,BANANA,920120,Nasirabad,BA2003,92012003,Tamboo,
-BA,Balochistan,BAQU,Quetta,BAQUCH,920104,Chagai,BA0401,92010401,Chagai,
-BA,Balochistan,BAQU,Quetta,BAQUCH,920104,Chagai,BA0402,92010402,Nokundi,
-BA,Balochistan,BAQU,Quetta,BAQUCH,920104,Chagai,BA0403,92010404,Saindak,
-BA,Balochistan,BAQU,Quetta,BAQUCH,920104,Chagai,BA0404,92010405,Taftan,
-BA,Balochistan,BAQU,Quetta,BAQUCH,920104,Chagai,BA0405,92010406,Yakmach,
-BA,Balochistan,BAQU,Quetta,BAQUKA,920114,Killa Abdullah,BA1401,92011401,Chaman,
-BA,Balochistan,BAQU,Quetta,BAQUKA,920114,Killa Abdullah,BA1402,92011402,Dobandi S/T,
-BA,Balochistan,BAQU,Quetta,BAQUKA,920114,Killa Abdullah,BA1403,92011403,Gulistan S/T,
-BA,Balochistan,BAQU,Quetta,BAQUKA,920114,Killa Abdullah,BA1404,92011404,Killa Abdullah,
-BA,Balochistan,BAQU,Quetta,BAQUNU,920121,Nushki,BA2101,92012101,Dalbandin,
-BA,Balochistan,BAQU,Quetta,BAQUNU,920121,Nushki,BA2102,92012102,Nushki,
-BA,Balochistan,BAQU,Quetta,BAQUPI,920123,Pishin,BA2302,92012302,Barshore,
-BA,Balochistan,BAQU,Quetta,BAQUPI,920123,Pishin,BA2303,92012303,Karezat,
-BA,Balochistan,BAQU,Quetta,BAQUPI,920123,Pishin,BA2304,92012304,Karezat S/T,
-BA,Balochistan,BAQU,Quetta,BAQUPI,920123,Pishin,BA2301,92012301,Pishin,
-BA,Balochistan,BAQU,Quetta,BAQUPI,920123,Pishin,BA2305,92012305,Pishin,
-BA,Balochistan,BAQU,Quetta,BAQUQA,920124,Quetta,BA2401,92012401,Chiltan Town,
-BA,Balochistan,BAQU,Quetta,BAQUQA,920124,Quetta,BA2402,92012402,Zarghoon Town,
-BA,Balochistan,BASI,Sibi,BASIDB,920105,Dera Bugti,BA0502,92010502,Baiker S/T,
-BA,Balochistan,BASI,Sibi,BASIDB,920105,Dera Bugti,BA0501,92010501,Dera Bughti,
-BA,Balochistan,BASI,Sibi,BASIDB,920105,Dera Bugti,BA0503,92010503,Loti,
-BA,Balochistan,BASI,Sibi,BASIDB,920105,Dera Bugti,BA0504,92010504,Malam S/T,
-BA,Balochistan,BASI,Sibi,BASIDB,920105,Dera Bugti,BA0505,92010505,Phellawagh,
-BA,Balochistan,BASI,Sibi,BASIDB,920105,Dera Bugti,BA0506,92010506,Pir Koh S/T,
-BA,Balochistan,BASI,Sibi,BASIDB,920105,Dera Bugti,BA0507,92010507,Sangseela S/T,
-BA,Balochistan,BASI,Sibi,BASIDB,920105,Dera Bugti,BA0508,92010508,Sui,
-BA,Balochistan,BASI,Sibi,BASIHA,920128,Harnai,BA2801,92012801,Harnai,
-BA,Balochistan,BASI,Sibi,BASIHA,920128,Harnai,BA2802,92012802,Khost S/T,
-BA,Balochistan,BASI,Sibi,BASIHA,920128,Harnai,BA2803,92012803,Shahrag,
-BA,Balochistan,BASI,Sibi,BASIKO,920112,Kohlu,BA1201,92011201,Kahan,
-BA,Balochistan,BASI,Sibi,BASIKO,920112,Kohlu,BA1202,92011202,Kohlu,
-BA,Balochistan,BASI,Sibi,BASIKO,920112,Kohlu,BA1203,92011203,Mawand,
-BA,Balochistan,BASI,Sibi,BASISB,920125,Sibbi,BA2501,92012501,Kutmandai S/T,
-BA,Balochistan,BASI,Sibi,BASISB,920125,Sibbi,BA2502,92012502,Lehri,
-BA,Balochistan,BASI,Sibi,BASISB,920125,Sibbi,BA2503,92012503,Sangan S/T,
-BA,Balochistan,BASI,Sibi,BASISB,920125,Sibbi,BA2504,92012504,Sibi,
-BA,Balochistan,BASI,Sibi,BASIZI,920127,Ziarat,BA2702,92012702,Sinjawi,
-BA,Balochistan,BASI,Sibi,BASIZI,920127,Ziarat,BA2701,92012701,Ziarat,
-BA,Balochistan,BAZH,Zhob,BAZHBA,920102,Barkhan,BA0201,92010201,Barkhan,
-BA,Balochistan,BAZH,Zhob,BAZHBA,920102,Barkhan,BA0301,92010301,Bhag,
-BA,Balochistan,BAZH,Zhob,BAZHKS,920115,Killa Saifullah,BA1501,92011501,Baddini S/T,
-BA,Balochistan,BAZH,Zhob,BAZHKS,920115,Killa Saifullah,BA1502,92011502,Killa Saifullah,
-BA,Balochistan,BAZH,Zhob,BAZHKS,920115,Killa Saifullah,BA1503,92011503,Loiband S/T,
-BA,Balochistan,BAZH,Zhob,BAZHKS,920115,Killa Saifullah,BA1504,92011504,Muslim Bagh,
-BA,Balochistan,BAZH,Zhob,BAZHLO,920117,Loralai,BA1701,92011701,Duki,
-BA,Balochistan,BAZH,Zhob,BAZHLO,920117,Loralai,BA1702,92011702,Loralai/Bori,
-BA,Balochistan,BAZH,Zhob,BAZHLO,920117,Loralai,BA1703,92011703,Mekhtar S/T,
-BA,Balochistan,BAZH,Zhob,BAZHMU,920119,Musakhel,BA1901,92011901,Kingri S/T,
-BA,Balochistan,BAZH,Zhob,BAZHMU,920119,Musakhel,BA1902,92011902,Musakhel,
-BA,Balochistan,BAZH,Zhob,BAZHSH,920129,Sherani,BA2901,92012901,Sherani,
-BA,Balochistan,BAZH,Zhob,BAZHZB,920126,Zhob,BA2601,92012601,Ashwat S/T,
-BA,Balochistan,BAZH,Zhob,BAZHZB,920126,Zhob,BA2602,92012602,Qamar Din Karez,
-BA,Balochistan,BAZH,Zhob,BAZHZB,920126,Zhob,BA2603,92012603,Sambaza S/T,
-BA,Balochistan,BAZH,Zhob,BAZHZB,920126,Zhob,BA2604,92012604,Zhob,
-IS,Islamabad Capital Territory,ISID,Islamabad,ISIDIB,920501,Islamabad,ISIDIBUR,92050101,Zone 1 - Urban Main,TRUE
-IS,Islamabad Capital Territory,ISID,Islamabad,ISIDIB,920501,Islamabad,ISIDIBUE,92050102,Zone 2 - Urban Extended,TRUE
-IS,Islamabad Capital Territory,ISID,Islamabad,ISIDIB,920501,Islamabad,ISIDIBMH,92050103,Zone 3 - Margalla Hills,TRUE
-IS,Islamabad Capital Territory,ISID,Islamabad,ISIDIB,920501,Islamabad,ISIDIBSU,92050104,Zone 4 - Suburban Areas,TRUE
-IS,Islamabad Capital Territory,ISID,Islamabad,ISIDIB,920501,Islamabad,ISIDIBRA,92050105,Zone 5 - Rural Areas,TRUE
-GB,Gilgit-Baltistan,GBBA,Baltistan,GBBAGH,920801,Ghanchi,GBBAGHKH,92080101,Khaplu,TRUE
-GB,Gilgit-Baltistan,GBBA,Baltistan,GBBAGH,920801,Ghanchi,GBBAGHMA,92080102,Mashabbrum,TRUE
-GB,Gilgit-Baltistan,GBBA,Baltistan,GBBAKH,920808,Kharmang,GBBAKHKG,92080801,Kharmang,TRUE
-GB,Gilgit-Baltistan,GBBA,Baltistan,GBBASH,920809,Shigar,GBBASHSR,92080901,Shigar,TRUE
-GB,Gilgit-Baltistan,GBBA,Baltistan,GBBASK,920802,Skardu,GBBASKKH,92080203,Kharmang,TRUE
-GB,Gilgit-Baltistan,GBBA,Baltistan,GBBASK,920802,Skardu,GBBASKSH,92080202,Shigar,TRUE
-GB,Gilgit-Baltistan,GBBA,Baltistan,GBBASK,920802,Skardu,GBBASKSU,92080201,Skardu,TRUE
-GB,Gilgit-Baltistan,GBGI,Gilgit,GBGIAS,920803,Astor,GBGIASAR,92080301,Astor,TRUE
-GB,Gilgit-Baltistan,GBGI,Gilgit,GBGIDI,920804,Diamir,GBGIDICH,92080401,Chilas,TRUE
-GB,Gilgit-Baltistan,GBGI,Gilgit,GBGIDI,920804,Diamir,GBGIDIDT,92080402,Darel/Tangir,TRUE
-GB,Gilgit-Baltistan,GBGI,Gilgit,GBGIGH,920805,Ghizer,GBGIGHGY,92080501,Gupis/Yasin,TRUE
-GB,Gilgit-Baltistan,GBGI,Gilgit,GBGIGH,920805,Ghizer,GBGIGHPI,92080502,Punial/Ishkoman,TRUE
-GB,Gilgit-Baltistan,GBGI,Gilgit,GBGIGT,920806,Gilgit,GBGIGTGG,92080701,Gilgit,TRUE
-GB,Gilgit-Baltistan,GBGI,Gilgit,GBGIHN,920807,Hunza Nagar,GBGIHNHU,92080701,Hunza,TRUE
-GB,Gilgit-Baltistan,GBGI,Gilgit,GBGIHN,920807,Hunza Nagar,GBGIHNNA,92080702,Nagar,TRUE
-JK,Azad Kashmir,JKMI,Mirpur,JKMIBH,920701,Bhimber,JKMIBHBA,92070101,Barnala,TRUE
-JK,Azad Kashmir,JKMI,Mirpur,JKMIBH,920701,Bhimber,JKMIBHBR,92070102,Bhimber,TRUE
-JK,Azad Kashmir,JKMI,Mirpur,JKMIBH,920701,Bhimber,JKMIBHSA,92070103,Samahni,TRUE
-JK,Azad Kashmir,JKMI,Mirpur,JKMIKO,920702,Kotli,JKMIKOCH,92070202,Charhoi,TRUE
-JK,Azad Kashmir,JKMI,Mirpur,JKMIKO,920702,Kotli,JKMIKOFA,92070203,Fatehpur,TRUE
-JK,Azad Kashmir,JKMI,Mirpur,JKMIKO,920702,Kotli,JKMIKOKH,92070205,Khoiratta,TRUE
-JK,Azad Kashmir,JKMI,Mirpur,JKMIKO,920702,Kotli,JKMIKOKI,92070201,Kotli,TRUE
-JK,Azad Kashmir,JKMI,Mirpur,JKMIKO,920702,Kotli,JKMIKOSE,92070204,Sehnsa,TRUE
-JK,Azad Kashmir,JKMI,Mirpur,JKMIMR,920703,Mirpur,JKMIMRDA,92070302,Dadyal,TRUE
-JK,Azad Kashmir,JKMI,Mirpur,JKMIMR,920703,Mirpur,JKMIMRMP,92070301,Mirpur,TRUE
-JK,Azad Kashmir,JKMU,Muzaffarabad,JKMUHA,920710,Hattian,JKMUHACH,92071002,Chikar,TRUE
-JK,Azad Kashmir,JKMU,Muzaffarabad,JKMUHA,920710,Hattian,JKMUHAHB,92071001,Hattian Balla,TRUE
-JK,Azad Kashmir,JKMU,Muzaffarabad,JKMUHA,920710,Hattian,JKMUHALE,92071003,Leepa,TRUE
-JK,Azad Kashmir,JKMU,Muzaffarabad,JKMUMD,920707,Muzaffarabad,JKMUMDMZ,92070701,Muzaffarabad,TRUE
-JK,Azad Kashmir,JKMU,Muzaffarabad,JKMUMD,920707,Muzaffarabad,JKMUMDNA,92070702,Naseer Abad,TRUE
-JK,Azad Kashmir,JKMU,Muzaffarabad,JKMUNE,920708,Neelum,JKMUNEAT,92070801,Athmuqam,TRUE
-JK,Azad Kashmir,JKMU,Muzaffarabad,JKMUNE,920708,Neelum,JKMUNESH,92070802,Sharda,TRUE
-JK,Azad Kashmir,JKPO,Poonch,JKPOBA,920704,Bagh,JKPOBABH,92070401,Bagh,TRUE
-JK,Azad Kashmir,JKPO,Poonch,JKPOBA,920704,Bagh,JKPOBADH,92070402,Dheerkot,TRUE
-JK,Azad Kashmir,JKPO,Poonch,JKPOBA,920704,Bagh,JKPOBAHG,92070403,Hari Gehl,TRUE
-JK,Azad Kashmir,JKPO,Poonch,JKPOHA,920709,Haveli,JKPOHAHI,92070901,Haveli (Kahuta),TRUE
-JK,Azad Kashmir,JKPO,Poonch,JKPOHA,920709,Haveli,JKPOHAKA,92070902,Khurshid Abad,TRUE
-JK,Azad Kashmir,JKPO,Poonch,JKPOPH,920705,Poonch,JKPOPHAB,92070503,Abbaspur,TRUE
-JK,Azad Kashmir,JKPO,Poonch,JKPOPH,920705,Poonch,JKPOPHHA,92070504,Hajeera,TRUE
-JK,Azad Kashmir,JKPO,Poonch,JKPOPH,920705,Poonch,JKPOPHRA,92070501,Rawalakot,TRUE
-JK,Azad Kashmir,JKPO,Poonch,JKPOPH,920705,Poonch,JKPOPHTH,92070506,Thorar,TRUE
-JK,Azad Kashmir,JKPO,Poonch,JKPOSU,920706,Sudhnati,JKPOSUBA,92070604,Baluch,TRUE
-JK,Azad Kashmir,JKPO,Poonch,JKPOSU,920706,Sudhnati,JKPOSUMO,92070602,Mong,TRUE
-JK,Azad Kashmir,JKPO,Poonch,JKPOSU,920706,Sudhnati,JKPOSUPA,92070601,Pallandri,TRUE
-JK,Azad Kashmir,JKPO,Poonch,JKPOSU,920706,Sudhnati,JKPOSUTR,92070603,Trarkhel,TRUE
-KP,Khyber Pakhtunkhwa,KPBA,Bannu,KPBABU,920202,Bannu,,92020201,Bannu,
-KP,Khyber Pakhtunkhwa,KPBA,Bannu,KPBALM,920213,Lakki Marwat,,92021301,Lakki Marwat,
-KP,Khyber Pakhtunkhwa,KPDI,Dera Ismail Khan,KPDIDE,920207,Dera Ismail Khan,,92020701,D.I.Khan,
-KP,Khyber Pakhtunkhwa,KPDI,Dera Ismail Khan,KPDIDE,920207,Dera Ismail Khan,,92020702,Daraban,
-KP,Khyber Pakhtunkhwa,KPDI,Dera Ismail Khan,KPDIDE,920207,Dera Ismail Khan,,92020703,Kulachi,
-KP,Khyber Pakhtunkhwa,KPDI,Dera Ismail Khan,KPDIDE,920207,Dera Ismail Khan,,92020704,Paharpur,
-KP,Khyber Pakhtunkhwa,KPDI,Dera Ismail Khan,KPDITA,920223,Tank,,92022301,Tank,
-KP,Khyber Pakhtunkhwa,KPHA,Hazara,KPHAAB,920201,Abbottabad,,92020101,Abbottabad,
-KP,Khyber Pakhtunkhwa,KPHA,Hazara,KPHABA,920203,Batagram,,92020301,Allai,
-KP,Khyber Pakhtunkhwa,KPHA,Hazara,KPHABA,920203,Batagram,,92020302,Batagram,
-KP,Khyber Pakhtunkhwa,KPHA,Hazara,KPHAHA,920209,Haripur,,92020902,Ghazi.,
-KP,Khyber Pakhtunkhwa,KPHA,Hazara,KPHAHA,920209,Haripur,,92020901,Haripur,
-KP,Khyber Pakhtunkhwa,KPHA,Hazara,KPHAKO,920212,Kohistan,,92021202,Dassu,
-KP,Khyber Pakhtunkhwa,KPHA,Hazara,KPHAKO,920212,Kohistan,,92021203,Palas,
-KP,Khyber Pakhtunkhwa,KPHA,Hazara,KPHAKO,920212,Kohistan,,92021201,Pattan,
-KP,Khyber Pakhtunkhwa,KPHA,Hazara,KPHAMA,920216,Mansehra,,92021602,Balakot,
-KP,Khyber Pakhtunkhwa,KPHA,Hazara,KPHAMA,920216,Mansehra,,92021601,Mansehra,
-KP,Khyber Pakhtunkhwa,KPHA,Hazara,KPHAMA,920216,Mansehra,,92021603,Oghi,
-KP,Khyber Pakhtunkhwa,KPHA,Hazara,KPHAMA,920216,Mansehra,,92021604,T.A.Adj.Mansehra Distt.,
-KP,Khyber Pakhtunkhwa,KPKO,Kohat,KPKOHA,920208,Hangu,,92020801,Hangu,
-KP,Khyber Pakhtunkhwa,KPKO,Kohat,KPKPKA,920210,Karak,,92021002,Banda Daud Shah,
-KP,Khyber Pakhtunkhwa,KPKO,Kohat,KPKPKA,920210,Karak,,92021001,Karak,
-KP,Khyber Pakhtunkhwa,KPKO,Kohat,KPKPKA,920210,Karak,,92021003,Takht-E-Nasrati,
-KP,Khyber Pakhtunkhwa,KPKO,Kohat,KPKOKT,920211,Kohat,,92021101,Kohat,
-KP,Khyber Pakhtunkhwa,KPKO,Kohat,KPKOKT,920211,Kohat,,92021102,Lachi,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMABU,920204,Buner,,92020401,Daggar/Buner,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMACH,920206,Chitral,,92020601,Chitral,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMACH,920206,Chitral,,92020602,Drosh,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMACH,920206,Chitral,,92020603,Lutkoh,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMACH,920206,Chitral,,92020604,Mastuj,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMACH,920206,Chitral,,92020605,Mulkoh,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMACH,920206,Chitral,,92020606,Turkoh,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMADL,920214,Dir Lower,,92021401,Adenzai,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMADL,920214,Dir Lower,,92021402,Balambat,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMADL,920214,Dir Lower,,92021403,Lalqila,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMADL,920214,Dir Lower,,92021404,Munda,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMADL,920214,Dir Lower,,92021405,Samarbagh (Barwa),
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMADL,920214,Dir Lower,,92021406,Temergara,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMADU,920224,Dir Upper,,92022401,Barawal,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMADU,920224,Dir Upper,,92022402,Dir,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMADU,920224,Dir Upper,,92022403,Khall,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMADU,920224,Dir Upper,,92022404,Kohistan,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMADU,920224,Dir Upper,,92022405,Wari,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMAMD,920215,Malakand,,92021501,Sam Ranizai,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMAMD,920215,Malakand,,92021502,Swat Ranizai,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMASH,920220,Shangla,,92022001,Alpuri,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMASH,920220,Shangla,,92022002,Besham,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMASH,920220,Shangla,,92022004,Chakesar,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMASH,920220,Shangla,,92022005,Martung,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMASH,920220,Shangla,,92022003,Puran,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMASW,920222,Swat,,92022202,Matta,
-KP,Khyber Pakhtunkhwa,KPMA,Malakand,KPMASW,920222,Swat,,92022201,Swat,
-KP,Khyber Pakhtunkhwa,KPMN,Mardan,KPMNMD,920217,Mardan,,92021701,Mardan,
-KP,Khyber Pakhtunkhwa,KPMN,Mardan,KPMNMD,920217,Mardan,,92021702,Takht Bhai,
-KP,Khyber Pakhtunkhwa,KPMN,Mardan,KPMNSW,920221,Swabi,,92022102,Lahore,
-KP,Khyber Pakhtunkhwa,KPMN,Mardan,KPMNSW,920221,Swabi,,92022101,Swabi,
-KP,Khyber Pakhtunkhwa,KPPE,Peshawar,KPPECH,920205,Charsadda,,92020501,Charsadda,
-KP,Khyber Pakhtunkhwa,KPPE,Peshawar,KPPECH,920205,Charsadda,,92020502,Shabqadar,
-KP,Khyber Pakhtunkhwa,KPPE,Peshawar,KPPECH,920205,Charsadda,,92020503,Tangi,
-KP,Khyber Pakhtunkhwa,KPPE,Peshawar,KPPENO,920218,Nowshera,,92021801,Nowshera,
-KP,Khyber Pakhtunkhwa,KPPE,Peshawar,KPPEPR,920219,Peshawar,,92021901,Peshawar,
-PB,Punjab,,,PBAT,920301,Attock,PB0101,92030804,Attock,
-PB,Punjab,,,PBBN,920302,Bahawalnagar,PB0102,92030805,Fateh Jang,
-PB,Punjab,,,PBBP,920303,Bahawalpur,PB0103,92030806,Hassanabdal,
-PB,Punjab,,,PBBK,920304,Bhakkar,PB0104,92030901,Hazro,
-PB,Punjab,,,PBCK,920305,Chakwal,PB0105,92030902,Jand,
-PB,Punjab,,,PBCN,920306,Chaniot,PB0106,92030903,Pindi Gheb,
-PB,Punjab,,,PBDG,920307,Dera Ghazi Khan,PB0201,92030904,Bahawalnagar,
-PB,Punjab,,,PBFS,920308,Faisalabad,PB0202,92031001,Chishtian,
-PB,Punjab,,,PBGW,920309,Gujranwala,PB0203,92031002,Fort Abbas,
-PB,Punjab,,,PBGT,920310,Gujrat,PB0204,92031003,Haroonabad,
-PB,Punjab,,,PBHA,920311,Hafizabad,PB0205,92031101,Minchinabad,
-PB,Punjab,,,PBJH,920312,Jhang,PB0301,92031102,Bahawalpur,
-PB,Punjab,,,PBJM,920313,Jhelum,PB0302,92031201,Ahmadpur East,
-PB,Punjab,,,PBKS,920314,Kasur,PB0303,92031202,Hasilpur,
-PB,Punjab,,,PBKN,920315,Khanewal,PB0304,92031203,Khairpur Tamewali,
-PB,Punjab,,,PBKH,920316,Khushab,PB0305,92031301,Yazman,
-PB,Punjab,,,PBLH,920317,Lahore,PB0401,92031302,Bhakkar,
-PB,Punjab,,,PBLY,920318,Layyah,PB0402,92031303,Darya Khan,
-PB,Punjab,,,PBLD,920319,Lodhran,PB0403,92031304,Kallur Kot,
-PB,Punjab,,,PBMB,920320,Mandi Bahauddin,PB0404,92031401,Mankera,
-PB,Punjab,,,PBMW,920321,Mianwali,PB0501,92031402,Chakwal,
-PB,Punjab,,,PBMU,920322,Multan,PB0502,92031403,Choa Saidan Shah,
-PB,Punjab,,,PBMG,920323,Muzaffargarh,PB0503,92031404,Tala Gang,
-PB,Punjab,,,PBNW,920324,Narowal,PB0504,92031501,Talagang,
-PB,Punjab,,,PBNS,920325,Nankana Sahib,PB0601,92031502,Chiniot,
-PB,Punjab,,,PBOK,920326,Okara,PB0701,92031503,Dera Ghazi Khan,
-PB,Punjab,,,PBPP,920327,Pakpattan,PB0702,92031601,Taunsa,
-PB,Punjab,,,PBRY,920328,Rahim Yar Khan,PB0801,92031602,Faisalabad City,
-PB,Punjab,,,PBRP,920329,Rajanpur,PB0802,92031701,Faisalabad Saddar,
-PB,Punjab,,,PBRI,920330,Rawalpindi,PB0803,92031702,Chak Jhumara,
-PB,Punjab,,,PBSL,920331,Sahiwal,PB0804,92031801,Jaranwala,
-PB,Punjab,,,PBSG,920332,Sargodha,PB0805,92031802,Samundari,
-PB,Punjab,,,PBSP,920333,Sheikhupura,PB0806,92031803,Tandlian Wala,
-PB,Punjab,,,PBSK,920334,Sialkot,PB0901,92031901,Gujranwala,
-PB,Punjab,,,PBTT,920335,Toba Tek Singh,PB0902,92031902,Kamoke,
-PB,Punjab,,,PBVE,920336,Vehari,PB0903,92031903,Noshera Virkan,
-SD,Sindh,,,SDBD,920401,Badin,PB0904,92032001,Wazirabad,
-SD,Sindh,,,SDDU,920402,Dadu,PB1001,92032002,Gujrat,
-SD,Sindh,,,SDGH,920403,Ghotki,PB1002,92032003,Kharian,
-SD,Sindh,,,SDHY,920404,Hyderabad,PB1003,92032101,Sarai Alam Gir,
-SD,Sindh,,,SDJC,920405,Jacobabad,PB1101,92032102,Hafizabad,
-SD,Sindh,,,SDJS,920406,Jamshoro,PB1102,92032103,Pindi Bhattian,
-SD,Sindh,,,SDKC,920407,Karachi Central,PB1201,92032201,Jhang,
-SD,Sindh,,,SDKE,920408,Karachi East,PB1202,92032202,Ahmad Pur Sial,
-SD,Sindh,,,SDKS,920409,Karachi South,PB1203,92032203,Shorkot,
-SD,Sindh,,,SDKW,920410,Karachi West,PB1301,92032204,Jhelum,
-SD,Sindh,,,SDMA,920411,Malir,PB1302,92032301,Dina,
-SD,Sindh,,,SDKM,920412,Kashmore,PB1303,92032302,Pind Dadhan Khan,
-SD,Sindh,,,SDKP,920413,Khairpur,PB1304,92032303,Sohawa,
-SD,Sindh,,,SDLK,920414,Larkana,PB1401,92032304,Kasur,
-SD,Sindh,,,SDMT,920415,Matiari,PB1402,92032401,Chunian,
-SD,Sindh,,,SDMK,920416,Mirpurkhas,PB1403,92032402,Kot Radha Kishan,
-SD,Sindh,,,SDNF,920417,Naushahro Firoze,PB1404,92032501,Pattoki,
-SD,Sindh,,,SDNS,920418,Shaheed Mohtarma Benazir Bhutto (Nawabshah),PB1501,92032502,Khanewal,
-SD,Sindh,,,SDSK,920419,Kamber at Shahdad Kot,PB1502,92032503,Kabirwala,
-SD,Sindh,,,SDSG,920420,Sanghar,PB1503,92032504,Mian Channu,
-SD,Sindh,,,SDSP,920421,Shikarpur,PB1601,92032601,Khushab,
-SD,Sindh,,,SDSU,920422,Sukkur,PB1602,92032602,Noorpur Thal,
-SD,Sindh,,,SDTA,920423,Tando Allahyar,PB1701,92032701,Lahore City,
-SD,Sindh,,,SDTM,920424,Tando Muhammad Khan,PB1702,92032702,Lahore Cantt,
-SD,Sindh,,,SDTP,920425,Tharparkar,PB1801,92032801,Layyah,
-SD,Sindh,,,SDTT,920426,Thatta,PB1802,92032802,Chaubara,
-SD,Sindh,,,SDUM,920427,Umerkot,PB1803,92032803,Karor Lalisan,
-TA,Federally Administered Tribal Areas,,,TABA,920601,Bajaur Agency,PB1901,92032804,Lodhran,
-TA,Federally Administered Tribal Areas,,,TAKH,920602,Khyber Agency,PB1902,92032901,Dunyapur,
-TA,Federally Administered Tribal Areas,,,TAKU,920603,Kurram Agency,PB1903,92032902,Karor Pacca,
-TA,Federally Administered Tribal Areas,,,TAMO,920604,Mohmand Agency,PB2001,92032903,Mandi Bahuddin,
-TA,Federally Administered Tribal Areas,,,TANW,920605,North Waziristan Agency,PB2002,92032904,Malikwal,
-TA,Federally Administered Tribal Areas,,,TAOR,920606,Orakzai Agency,PB2003,92033001,Phalia,
-TA,Federally Administered Tribal Areas,,,TASW,920607,South Waziristan Agency,PB2101,92033002,Mian Wali,
-TA,Federally Administered Tribal Areas,,,TAFR,920608,Frontier Region,PB2102,92033003,Isakhel,
-,,,,,,,PB2103,92033004,Piplan,
-,,,,,,,PB2201,92033005,Multan City,
-,,,,,,,PB2202,92033006,Multan Sadar,
-,,,,,,,PB2203,92033007,Jalalpur Pirwala,
-,,,,,,,PB2204,92033101,Shuja Abad,
-,,,,,,,PB2301,92033102,Muzaffargarh,
-,,,,,,,PB2302,92033201,Alipur,
-,,,,,,,PB2303,92033202,Jatoi,
-,,,,,,,PB2304,92033203,Kot Adu,
-,,,,,,,PB2401,92033204,Narowal,
-,,,,,,,PB2402,92033205,Shakargarh,
-,,,,,,,PB2501,92033301,Nankana Sahib,
-,,,,,,,PB2502,92033302,Safdarabad,
-,,,,,,,PB2503,92033303,Sangla Hill,
-,,,,,,,PB2504,92033304,Shahkot,
-,,,,,,,PB2601,92033401,Okara,
-,,,,,,,PB2602,92033402,Depalpur,
-,,,,,,,PB2701,92033403,Pakpattan,
-,,,,,,,PB2702,92033404,Arifwala,
-,,,,,,,PB2801,92033501,Rahimyar Khan,
-,,,,,,,PB2802,92033502,Khanpur,
-,,,,,,,PB2803,92033503,Liaqatpur,
-,,,,,,,PB2804,92033601,Sadiqabad,
-,,,,,,,PB2901,92033602,Rajanpur,
-,,,,,,,PB2902,92033603,Jampur,
-,,,,,,,PB2903,92040101,Rojhan,
-,,,,,,,PB2904,92040102,Tribal Area,
-,,,,,,,PB3001,92040103,Rawalpindi,
-,,,,,,,PB3002,92040104,Gujar Khan,
-,,,,,,,PB3003,92040105,Khauta,
-,,,,,,,PB3004,92040201,Kotli Sattian,
-,,,,,,,PB3005,92040202,Murree,
-,,,,,,,PB3006,92040203,Taxila,
-,,,,,,,PB3007,92040204,Taxila,
-,,,,,,,PB3101,92040301,Sahiwal,
-,,,,,,,PB3102,92040302,Chichawatani,
-,,,,,,,PB3201,92040303,Sargodha,
-,,,,,,,PB3202,92040304,Bhalwal,
-,,,,,,,PB3203,92040305,Sahiwal,
-,,,,,,,PB3204,92040401,Shahpur,
-,,,,,,,PB3205,92040402,Sillanwali,
-,,,,,,,PB3301,92040403,Sheikhupura,
-,,,,,,,PB3302,92040404,Ferozwala,
-,,,,,,,PB3303,92040501,Muridke,
-,,,,,,,PB3304,92040502,Sharaqpur,
-,,,,,,,PB3401,92040503,Sialkot,
-,,,,,,,PB3402,92040601,Daska,
-,,,,,,,PB3403,92040602,Pasrur,
-,,,,,,,PB3404,92040603,Sambrial,
-,,,,,,,PB3501,92040604,Toba Tek Singh,
-,,,,,,,PB3502,92040701,Gojra,
-,,,,,,,PB3503,92040702,Kamalia,
-,,,,,,,PB3601,92040703,Vehari,
-,,,,,,,PB3602,92040704,Burewala,
-,,,,,,,PB3603,92040801,Mailsi,
-,,,,,,,SD0101,92040802,Badin,
-,,,,,,,SD0102,92040803,Golarchi,
-,,,,,,,SD0103,92040804,Matli,
-,,,,,,,SD0104,92040805,Tando Bagho,
-,,,,,,,SD0105,92040806,Talhar,
-,,,,,,,SD0201,92040901,Dadu,
-,,,,,,,SD0202,92040902,Johi,
-,,,,,,,SD0203,92041001,Khairpur Nathan Shah,
-,,,,,,,SD0204,92041002,Mehar,
-,,,,,,,SD0301,92041003,Ghotki,
-,,,,,,,SD0302,92041004,Khangarh,
-,,,,,,,SD0303,92041101,Mirpur Mathelo,
-,,,,,,,SD0304,92041102,Ubauro,
-,,,,,,,SD0305,92041201,Daharki,
-,,,,,,,SD0401,92041202,Hyderabad City,
-,,,,,,,SD0402,92041203,Latifabad,
-,,,,,,,SD0403,92041301,Hyderabad,
-,,,,,,,SD0404,92041302,Qasimabad,
-,,,,,,,SD0501,92041303,Jacobabad,
-,,,,,,,SD0502,92041304,Garhi Khairo,
-,,,,,,,SD0503,92041305,Thul,
-,,,,,,,SD0601,92041306,Kotri,
-,,,,,,,SD0602,92041307,Manjhand,
-,,,,,,,SD0603,92041308,Sehwan Sharif,
-,,,,,,,SD0604,92041402,Thano Bula Khan,
-,,,,,,,SD0701,92041403,Gulberg,
-,,,,,,,SD0702,92041404,Liaquatabad,
-,,,,,,,SD0703,92041405,New Karachi,
-,,,,,,,SD0704,92041407,North Nazimabad,
-,,,,,,,SD0801,92041501,Bin Qasim,
-,,,,,,,SD0802,92041502,Gulshan-e-Iqbal,
-,,,,,,,SD0803,92041503,Jamshed,
-,,,,,,,SD0804,92041601,Korangi,
-,,,,,,,SD0805,92041602,Landhi,
-,,,,,,,SD0806,92041603,Shah Faisal,
-,,,,,,,SD0901,92041701,Lyari,
-,,,,,,,SD0902,92041702,Saddar,
-,,,,,,,SD1001,92041703,Baldia,
-,,,,,,,SD1002,92041704,Kemari,
-,,,,,,,SD1003,92041801,Orangi,
-,,,,,,,SD1004,92041806,SITE,
-,,,,,,,SD1101,92041901,Malir,
-,,,,,,,SD1102,92041902,Gadap,
-,,,,,,,SD1201,92041903,Kandhkot,
-,,,,,,,SD1202,92041904,Kashmore,
-,,,,,,,SD1203,92041905,Tangwani,
-,,,,,,,SD1301,92041906,Khairpur,
-,,,,,,,SD1302,92042001,Kingri,
-,,,,,,,SD1303,92042002,Sobhodero,
-,,,,,,,SD1304,92042003,Gambat,
-,,,,,,,SD1305,92042101,Kot Diji,
-,,,,,,,SD1306,92042102,Mirwah,
-,,,,,,,SD1307,92042103,Faiz Ganj,
-,,,,,,,SD1308,92042104,Nara,
-,,,,,,,SD1402,92042201,Miro Khan,
-,,,,,,,SD1403,92042202,Rato Dero,
-,,,,,,,SD1404,92042203,Larkana,
-,,,,,,,SD1405,92042204,Dokri,
-,,,,,,,SD1407,92042301,Warah,
-,,,,,,,SD1501,92042302,Matiari,
-,,,,,,,SD1502,92042303,Hala,
-,,,,,,,SD1503,92042401,Saeedabad,
-,,,,,,,SD1601,92042402,Mirpur Khas,
-,,,,,,,SD1602,92042403,Digri,
-,,,,,,,SD1603,92042501,Kot Ghulam Mohammad,
-,,,,,,,SD1701,92042502,Naushahro Feroze,
-,,,,,,,SD1702,92042503,Kandioro,
-,,,,,,,SD1703,92042504,Bhiria,
-,,,,,,,SD1704,92042601,Moro,
-,,,,,,,SD1801,92042602,Shahdadkot,
-,,,,,,,SD1806,92042603,Qambar,
-,,,,,,,SD1901,92042604,Sanghar,
-,,,,,,,SD1902,92042605,Sinjhoro,
-,,,,,,,SD1903,92042606,Khipro,
-,,,,,,,SD1904,92042607,Shahdadpur,
-,,,,,,,SD1905,92042608,Jam Nawaz Ali,
-,,,,,,,SD1906,92042609,Tando Adam,
-,,,,,,,SD2001,92042701,Nawab Shah,
-,,,,,,,SD2002,92042702,Daulatpur,
-,,,,,,,SD2003,92042703,Sakrand,
-,,,,,,,SD2101,92042704,Shikarpur,
-,,,,,,,SD2102,92050101,Khanrpur,
-,,,,,,,SD2103,92050102,Garhi Yasin,
-,,,,,,,SD2104,92050103,Lakhi,
-,,,,,,,SD2201,92050104,Sukkur,
-,,,,,,,SD2202,92050105,Rohri,
-,,,,,,,SD2203,92050106,Pano Aqil,
-,,,,,,,SD2204,92050107,Salehpat,
-,,,,,,,SD2301,92050108,Tando Allahyar,
-,,,,,,,SD2302,92060101,Chambar,
-,,,,,,,SD2303,92060102,Tando Maree,
-,,,,,,,SD2401,92060103,Tando Muhammad Khan,
-,,,,,,,SD2402,92060104,Bulri Shah,
-,,,,,,,SD2403,92060105,Tando Ghulam Haider,
-,,,,,,,SD2501,92060106,Chachro,
-,,,,,,,SD2502,92060107,Nagar Parkar,
-,,,,,,,SD2503,92060201,Diplo,
-,,,,,,,SD2504,92060202,Mithi,
-,,,,,,,SD2601,92060203,Thatta,
-,,,,,,,SD2602,92060204,Mirpur Sakro,
-,,,,,,,SD2603,92060301,Ghorabari,
-,,,,,,,SD2604,92060302,Jati,
-,,,,,,,SD2605,92060303,Keti Bunder,
-,,,,,,,SD2606,92060401,Kharo Chan,
-,,,,,,,SD2607,92060402,Mirpur Bathoro,
-,,,,,,,SD2608,92060403,Shah Bunder,
-,,,,,,,SD2609,92060404,Sujawal,
-,,,,,,,SD2701,92060405,Umerkot,
-,,,,,,,SD2702,92060406,Samaro,
-,,,,,,,SD2703,92060407,Kunri,
-,,,,,,,SD2704,92060501,Pithoro,
-,,,,,,,TA0101,92060502,Barang,
-,,,,,,,TA0102,92060503,Charmang,
-,,,,,,,TA0103,92060504,Khar Bajaur,
-,,,,,,,TA0104,92060505,Mamund,
-,,,,,,,TA0105,92060506,Nawagai,
-,,,,,,,TA0106,92060507,Salarzai,
-,,,,,,,TA0107,92060508,Utmankhel (Qzafi),
-,,,,,,,TA0201,92060509,Bara,
-,,,,,,,TA0202,92060601,Jamrud,
-,,,,,,,TA0203,92060602,Landi Kotal,
-,,,,,,,TA0204,92060603,Mula Ghori,
-,,,,,,,TA0301,92060604,Kurram F.R.,
-,,,,,,,TA0302,92060701,Lower Kurram,
-,,,,,,,TA0303,92060702,Upper Kurram,
-,,,,,,,TA0401,92060703,Halimzai,
-,,,,,,,TA0402,92060704,Pindiali,
-,,,,,,,TA0403,92060705,Pringhar,
-,,,,,,,TA0404,92060706,Safi,
-,,,,,,,TA0405,92060707,Upper Mohmand,
-,,,,,,,TA0406,92060708,Utman Khel (Ambar),
-,,,,,,,TA0407,92060801,Yake Ghund,
-,,,,,,,TA0501,92060802,Datta Khel,
-,,,,,,,TA0502,92060803,Dossali,
-,,,,,,,TA0503,92060804,Garyum,
-,,,,,,,TA0504,92060805,Ghulam Khan,
-,,,,,,,TA0505,92060806,Mir Ali,
-,,,,,,,TA0506,92070101,Miran Shah,
-,,,,,,,TA0507,92070102,Razmak,
-,,,,,,,TA0508,92070103,Shewa,
-,,,,,,,TA0509,92070201,Spinwam,
-,,,,,,,TA0601,92070202,Central,
-,,,,,,,TA0602,92070203,Ismailzai,
-,,,,,,,TA0603,92070204,Lower,
-,,,,,,,TA0604,92070301,Upper,
-,,,,,,,TA0701,92070302,Birmal,
-,,,,,,,TA0702,92070401,Ladha,
-,,,,,,,TA0703,92070402,Makin(Charlai),
-,,,,,,,TA0704,92070403,Sararogha,
-,,,,,,,TA0705,92070501,Sarwekai,
-,,,,,,,TA0706,92070503,Tiarza,
-,,,,,,,TA0707,92070504,Toi Khullah,
-,,,,,,,TA0708,92070506,Wana,
-,,,,,,,TA0801,92070601,T.A. Adj. Bannu District,
-,,,,,,,TA0802,92070701,T.A. Adj. D. I. Khan District,
-,,,,,,,TA0803,92070702,T.A. Adj. Kohat District,
-,,,,,,,TA0804,92070801,T.A. Adj. Lakki Marwat District,
-,,,,,,,TA0805,92070802,T.A. Adj. Peshawar District,
-,,,,,,,TA0806,92999999,T.A. Adj. Tank District,
+Country_Code,Country,Province_Code,Province,District_Code,District,Tehsil_Code,Tehsil
+PK,Pakistan,PK1,Azad Kashmir,PK101,Bagh,PK10101,Bagh
+PK,Pakistan,PK1,Azad Kashmir,PK101,Bagh,PK10102,Dhir Kot
+PK,Pakistan,PK1,Azad Kashmir,PK101,Bagh,PK10103,Harighel
+PK,Pakistan,PK1,Azad Kashmir,PK102,Bhimber,PK10201,Barnala
+PK,Pakistan,PK1,Azad Kashmir,PK102,Bhimber,PK10202,Bhimber
+PK,Pakistan,PK1,Azad Kashmir,PK102,Bhimber,PK10203,Samahni
+PK,Pakistan,PK1,Azad Kashmir,PK103,Jhelum Valley,PK10301,Chikar
+PK,Pakistan,PK1,Azad Kashmir,PK103,Jhelum Valley,PK10302,Hattian
+PK,Pakistan,PK1,Azad Kashmir,PK103,Jhelum Valley,PK10303,Leepa
+PK,Pakistan,PK1,Azad Kashmir,PK104,Haveli,PK10401,Haveli
+PK,Pakistan,PK1,Azad Kashmir,PK104,Haveli,PK10402,Khurshid Abad
+PK,Pakistan,PK1,Azad Kashmir,PK104,Haveli,PK10403,Mumtazabad
+PK,Pakistan,PK1,Azad Kashmir,PK105,Kotli,PK10501,Charhoi
+PK,Pakistan,PK1,Azad Kashmir,PK105,Kotli,PK10502,Dulliya Jattan
+PK,Pakistan,PK1,Azad Kashmir,PK105,Kotli,PK10503,Fatehpur Thakiala
+PK,Pakistan,PK1,Azad Kashmir,PK105,Kotli,PK10504,Khui Ratta
+PK,Pakistan,PK1,Azad Kashmir,PK105,Kotli,PK10505,Kotli
+PK,Pakistan,PK1,Azad Kashmir,PK105,Kotli,PK10506,Sehnsa
+PK,Pakistan,PK1,Azad Kashmir,PK106,Mirpur,PK10601,Dadyal
+PK,Pakistan,PK1,Azad Kashmir,PK106,Mirpur,PK10602,Mirpur
+PK,Pakistan,PK1,Azad Kashmir,PK107,Muzaffarabad,PK10701,Muzaffarabad
+PK,Pakistan,PK1,Azad Kashmir,PK107,Muzaffarabad,PK10702,Naseerabad
+PK,Pakistan,PK1,Azad Kashmir,PK108,Neelum,PK10801,Athmuqam
+PK,Pakistan,PK1,Azad Kashmir,PK108,Neelum,PK10802,Sharda
+PK,Pakistan,PK1,Azad Kashmir,PK109,Poonch,PK10901,Abbaspur
+PK,Pakistan,PK1,Azad Kashmir,PK109,Poonch,PK10902,Hajira
+PK,Pakistan,PK1,Azad Kashmir,PK109,Poonch,PK10903,Rawalakot
+PK,Pakistan,PK1,Azad Kashmir,PK109,Poonch,PK10904,Thorar
+PK,Pakistan,PK1,Azad Kashmir,PK110,Sudhnoti,PK11001,Baluch
+PK,Pakistan,PK1,Azad Kashmir,PK110,Sudhnoti,PK11002,Mong
+PK,Pakistan,PK1,Azad Kashmir,PK110,Sudhnoti,PK11003,Pallandari
+PK,Pakistan,PK1,Azad Kashmir,PK110,Sudhnoti,PK11004,Tarar Khal
+PK,Pakistan,PK2,Balochistan,PK201,Awaran,PK20101,Awaran
+PK,Pakistan,PK2,Balochistan,PK201,Awaran,PK20102,Jhal Jhao
+PK,Pakistan,PK2,Balochistan,PK201,Awaran,PK20103,Mashkai
+PK,Pakistan,PK2,Balochistan,PK201,Awaran,PK20104,Gishekore
+PK,Pakistan,PK2,Balochistan,PK202,Barkhan,PK20201,Barkhan
+PK,Pakistan,PK2,Balochistan,PK202,Barkhan,PK20202,Rakhni
+PK,Pakistan,PK2,Balochistan,PK203,Chagai,PK20301,Dalbandin
+PK,Pakistan,PK2,Balochistan,PK203,Chagai,PK20302,Nokkundi
+PK,Pakistan,PK2,Balochistan,PK203,Chagai,PK20303,Taftan
+PK,Pakistan,PK2,Balochistan,PK203,Chagai,PK20304,Chagai
+PK,Pakistan,PK2,Balochistan,PK204,Dera Bugti,PK20401,Dera Bugti
+PK,Pakistan,PK2,Balochistan,PK204,Dera Bugti,PK20402,Phelawagh
+PK,Pakistan,PK2,Balochistan,PK204,Dera Bugti,PK20403,Sui
+PK,Pakistan,PK2,Balochistan,PK205,Gwadar,PK20501,Gwadar
+PK,Pakistan,PK2,Balochistan,PK205,Gwadar,PK20502,Jiwani
+PK,Pakistan,PK2,Balochistan,PK205,Gwadar,PK20503,Ormara
+PK,Pakistan,PK2,Balochistan,PK205,Gwadar,PK20504,Pasni
+PK,Pakistan,PK2,Balochistan,PK205,Gwadar,PK20505,Sunster
+PK,Pakistan,PK2,Balochistan,PK206,Harnai,PK20601,Harnai
+PK,Pakistan,PK2,Balochistan,PK206,Harnai,PK20602,Shahrigh
+PK,Pakistan,PK2,Balochistan,PK207,Jaffarabad,PK20701,Gandakha
+PK,Pakistan,PK2,Balochistan,PK207,Jaffarabad,PK20702,Jhat Pat
+PK,Pakistan,PK2,Balochistan,PK207,Jaffarabad,PK20703,Usta Mohammad
+PK,Pakistan,PK2,Balochistan,PK208,Jhal Magsi,PK20801,Gandawa
+PK,Pakistan,PK2,Balochistan,PK208,Jhal Magsi,PK20802,Jhal Magsi
+PK,Pakistan,PK2,Balochistan,PK209,Kachhi,PK20901,Dhadar
+PK,Pakistan,PK2,Balochistan,PK209,Kachhi,PK20902,Mach
+PK,Pakistan,PK2,Balochistan,PK209,Kachhi,PK20903,Sanni
+PK,Pakistan,PK2,Balochistan,PK209,Kachhi,PK20904,Balanari
+PK,Pakistan,PK2,Balochistan,PK209,Kachhi,PK20905,Khattan
+PK,Pakistan,PK2,Balochistan,PK210,Kalat,PK21001,Kalat
+PK,Pakistan,PK2,Balochistan,PK210,Kalat,PK21002,Khaliqabad
+PK,Pakistan,PK2,Balochistan,PK211,Kech,PK21101,Buleda
+PK,Pakistan,PK2,Balochistan,PK211,Kech,PK21102,Dasht
+PK,Pakistan,PK2,Balochistan,PK211,Kech,PK21103,Kech (Turbat)
+PK,Pakistan,PK2,Balochistan,PK211,Kech,PK21104,Mand
+PK,Pakistan,PK2,Balochistan,PK211,Kech,PK21105,Tump
+PK,Pakistan,PK2,Balochistan,PK212,Kharan,PK21201,Kharan
+PK,Pakistan,PK2,Balochistan,PK212,Kharan,PK21202,Sar Kharan
+PK,Pakistan,PK2,Balochistan,PK212,Kharan,PK21203,Tomulk
+PK,Pakistan,PK2,Balochistan,PK213,Khuzdar,PK21301,Khuzdar
+PK,Pakistan,PK2,Balochistan,PK213,Khuzdar,PK21302,Mola
+PK,Pakistan,PK2,Balochistan,PK213,Khuzdar,PK21303,Naal
+PK,Pakistan,PK2,Balochistan,PK213,Khuzdar,PK21304,Wadh
+PK,Pakistan,PK2,Balochistan,PK213,Khuzdar,PK21305,Zehri
+PK,Pakistan,PK2,Balochistan,PK214,Killa Abdullah,PK21402,Dobandi
+PK,Pakistan,PK2,Balochistan,PK214,Killa Abdullah,PK21403,Gulistan
+PK,Pakistan,PK2,Balochistan,PK214,Killa Abdullah,PK21404,Killa Abdullah
+PK,Pakistan,PK2,Balochistan,PK215,Killa Saifullah,PK21501,Killa Saifullah
+PK,Pakistan,PK2,Balochistan,PK215,Killa Saifullah,PK21502,Muslim Bagh
+PK,Pakistan,PK2,Balochistan,PK216,Kohlu,PK21601,Kahan
+PK,Pakistan,PK2,Balochistan,PK216,Kohlu,PK21602,Kohlu
+PK,Pakistan,PK2,Balochistan,PK216,Kohlu,PK21603,Mawand
+PK,Pakistan,PK2,Balochistan,PK217,Lasbela,PK21701,Bela
+PK,Pakistan,PK2,Balochistan,PK217,Lasbela,PK21702,Dureji
+PK,Pakistan,PK2,Balochistan,PK217,Lasbela,PK21703,Gaddani
+PK,Pakistan,PK2,Balochistan,PK217,Lasbela,PK21704,Hub
+PK,Pakistan,PK2,Balochistan,PK217,Lasbela,PK21705,Kanraj
+PK,Pakistan,PK2,Balochistan,PK217,Lasbela,PK21706,Sonmiani
+PK,Pakistan,PK2,Balochistan,PK217,Lasbela,PK21707,Uthal
+PK,Pakistan,PK2,Balochistan,PK217,Lasbela,PK21708,Lakhra
+PK,Pakistan,PK2,Balochistan,PK217,Lasbela,PK21709,Lairi
+PK,Pakistan,PK2,Balochistan,PK218,Lehri,PK21801,Bhag
+PK,Pakistan,PK2,Balochistan,PK218,Lehri,PK21802,Lehri
+PK,Pakistan,PK2,Balochistan,PK219,Loralai,PK21901,Loralai
+PK,Pakistan,PK2,Balochistan,PK219,Loralai,PK21902,Mekhtar
+PK,Pakistan,PK2,Balochistan,PK220,Mastung,PK22001,Dasht Spenzend
+PK,Pakistan,PK2,Balochistan,PK220,Mastung,PK22002,Kirdgap
+PK,Pakistan,PK2,Balochistan,PK220,Mastung,PK22003,Mastung
+PK,Pakistan,PK2,Balochistan,PK221,Musakhel,PK22101,Drug
+PK,Pakistan,PK2,Balochistan,PK221,Musakhel,PK22102,Kingri
+PK,Pakistan,PK2,Balochistan,PK221,Musakhel,PK22103,Musakhel
+PK,Pakistan,PK2,Balochistan,PK222,Nasirabad,PK22201,Chattar
+PK,Pakistan,PK2,Balochistan,PK222,Nasirabad,PK22202,Dera Murad Jamali
+PK,Pakistan,PK2,Balochistan,PK222,Nasirabad,PK22203,Tamboo
+PK,Pakistan,PK2,Balochistan,PK223,Nushki,PK22301,Nushki
+PK,Pakistan,PK2,Balochistan,PK224,Panjgur,PK22401,Gowargo
+PK,Pakistan,PK2,Balochistan,PK224,Panjgur,PK22402,Jaheen Parome
+PK,Pakistan,PK2,Balochistan,PK224,Panjgur,PK22403,Panjgur
+PK,Pakistan,PK2,Balochistan,PK224,Panjgur,PK22404,Gichk
+PK,Pakistan,PK2,Balochistan,PK225,Pishin,PK22501,Barshore
+PK,Pakistan,PK2,Balochistan,PK225,Pishin,PK22502,Huramzai
+PK,Pakistan,PK2,Balochistan,PK225,Pishin,PK22503,Karezat
+PK,Pakistan,PK2,Balochistan,PK225,Pishin,PK22504,Pishin
+PK,Pakistan,PK2,Balochistan,PK225,Pishin,PK22505,Saranan
+PK,Pakistan,PK2,Balochistan,PK226,Quetta,PK22601,Panjpai
+PK,Pakistan,PK2,Balochistan,PK226,Quetta,PK22602,Quetta City
+PK,Pakistan,PK2,Balochistan,PK226,Quetta,PK22603,Quetta Saddar
+PK,Pakistan,PK2,Balochistan,PK227,Sherani,PK22701,Sherani
+PK,Pakistan,PK2,Balochistan,PK228,Sibi,PK22801,Sibi
+PK,Pakistan,PK2,Balochistan,PK229,Sohbatpur,PK22901,Sohbatpur
+PK,Pakistan,PK2,Balochistan,PK230,Washuk,PK23001,Mashkhel
+PK,Pakistan,PK2,Balochistan,PK230,Washuk,PK23002,Basima
+PK,Pakistan,PK2,Balochistan,PK230,Washuk,PK23003,Washuk
+PK,Pakistan,PK2,Balochistan,PK230,Washuk,PK23004,Nag
+PK,Pakistan,PK2,Balochistan,PK230,Washuk,PK23005,Shaogari
+PK,Pakistan,PK2,Balochistan,PK231,Zhob,PK23101,Kakar Khurasan
+PK,Pakistan,PK2,Balochistan,PK231,Zhob,PK23102,Zhob
+PK,Pakistan,PK2,Balochistan,PK232,Ziarat,PK23201,Sinjawi
+PK,Pakistan,PK2,Balochistan,PK232,Ziarat,PK23202,Ziarat
+PK,Pakistan,PK2,Balochistan,PK233,Shaheed Sikandarabad,PK23301,Surab
+PK,Pakistan,PK2,Balochistan,PK234,Duki,PK23401,Duki
+PK,Pakistan,PK2,Balochistan,PK235,Chaman,PK23501,Chaman
+PK,Pakistan,PK3,Gilgit Baltistan,PK301,Astore,PK30101,Astore
+PK,Pakistan,PK3,Gilgit Baltistan,PK301,Astore,PK30102,Shounter
+PK,Pakistan,PK3,Gilgit Baltistan,PK302,Diamir,PK30201,Chilas
+PK,Pakistan,PK3,Gilgit Baltistan,PK303,Ghanche,PK30301,Daghoni
+PK,Pakistan,PK3,Gilgit Baltistan,PK303,Ghanche,PK30302,Khaplu
+PK,Pakistan,PK3,Gilgit Baltistan,PK303,Ghanche,PK30303,Mashabbrum
+PK,Pakistan,PK3,Gilgit Baltistan,PK304,Ghizer,PK30401,Ishkoman
+PK,Pakistan,PK3,Gilgit Baltistan,PK304,Ghizer,PK30402,Punial
+PK,Pakistan,PK3,Gilgit Baltistan,PK305,Gilgit,PK30501,Gilgit
+PK,Pakistan,PK3,Gilgit Baltistan,PK306,Hunza,PK30601,Ali Abad
+PK,Pakistan,PK3,Gilgit Baltistan,PK306,Hunza,PK30602,Gojal
+PK,Pakistan,PK3,Gilgit Baltistan,PK307,Skardu,PK30701,Gamba
+PK,Pakistan,PK3,Gilgit Baltistan,PK307,Skardu,PK30702,Skardu
+PK,Pakistan,PK3,Gilgit Baltistan,PK308,Nagar,PK30801,Nagar
+PK,Pakistan,PK3,Gilgit Baltistan,PK308,Nagar,PK30802,Sikandar Abad
+PK,Pakistan,PK3,Gilgit Baltistan,PK309,Kharmang,PK30901,Gultari
+PK,Pakistan,PK3,Gilgit Baltistan,PK309,Kharmang,PK30902,Kharmang
+PK,Pakistan,PK3,Gilgit Baltistan,PK310,Shigar,PK31001,Shigar
+PK,Pakistan,PK3,Gilgit Baltistan,PK311,Darel,PK31101,Darel
+PK,Pakistan,PK3,Gilgit Baltistan,PK312,Tangir,PK31201,Tangir
+PK,Pakistan,PK3,Gilgit Baltistan,PK313,Gupis-Yasin,PK31301,Gupis
+PK,Pakistan,PK3,Gilgit Baltistan,PK313,Gupis-Yasin,PK31302,Phandar
+PK,Pakistan,PK3,Gilgit Baltistan,PK313,Gupis-Yasin,PK31303,Yasin
+PK,Pakistan,PK3,Gilgit Baltistan,PK314,Rondu,PK31401,Rondu
+PK,Pakistan,PK4,Islamabad,PK401,Islamabad,PK40101,Islamabad
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK501,Abbottabad,PK50101,Abbottabad
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK501,Abbottabad,PK50102,Havelian
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK501,Abbottabad,PK50103,Lora
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK501,Abbottabad,PK50104,Lower Tanawal
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK502,Bajaur,PK50201,Bar Chamarkand
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK502,Bajaur,PK50202,Barang
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK502,Bajaur,PK50203,Khar
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK502,Bajaur,PK50204,Mamund
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK502,Bajaur,PK50205,Nawagai
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK502,Bajaur,PK50206,Salarzai
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK502,Bajaur,PK50207,Utman Khel
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK503,Bannu,PK50301,Bannu
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK503,Bannu,PK50302,Baka Khel
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK503,Bannu,PK50303,Domel
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK503,Bannu,PK50304,Kakki
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK503,Bannu,PK50305,Miryan
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK503,Bannu,PK50306,Wazir
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK504,Batagram,PK50401,Allai
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK504,Batagram,PK50402,Batagram
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK505,Buner,PK50501,Daggar
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK505,Buner,PK50502,Gagra
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK505,Buner,PK50503,Khado Khel
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK505,Buner,PK50504,Mandanr
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK506,Charsadda,PK50601,Charsadda
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK506,Charsadda,PK50602,Shabqadar
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK506,Charsadda,PK50603,Tangi
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK507,Chitral Lower,PK50701,Chitral
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK507,Chitral Lower,PK50702,Drosh
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK507,Chitral Lower,PK50703,Lotkoh
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK508,Chitral Upper,PK50801,Mastuj
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK508,Chitral Upper,PK50802,Mulkhow
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK509,D. I. Khan,PK50901,D. I. Khan
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK509,D. I. Khan,PK50902,Daraban
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK509,D. I. Khan,PK50903,Kulachi
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK509,D. I. Khan,PK50904,Paharpur
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK509,D. I. Khan,PK50905,Paroa
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK509,D. I. Khan,PK50906,Darazinda
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK510,Hangu,PK51001,Hangu
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK510,Hangu,PK51002,Tall
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK511,Haripur,PK51101,Ghazi
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK511,Haripur,PK51102,Haripur
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK511,Haripur,PK51103,Khanpur
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK512,Karak,PK51201,Banda Daud Shah
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK512,Karak,PK51202,Karak
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK512,Karak,PK51203,Takht-E-Nasrati
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK513,Khyber,PK51301,Bara
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK513,Khyber,PK51302,Jamrud
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK513,Khyber,PK51303,Landi Kotal
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK513,Khyber,PK51304,Mulagori
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK514,Kohat,PK51401,Kohat
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK514,Kohat,PK51402,Lachi
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK514,Kohat,PK51403,Gumbat
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK514,Kohat,PK51404,Darra Adam Khel
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK515,Kohistan Lower,PK51501,Pattan
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK515,Kohistan Lower,PK51502,Bankad
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK516,Kohistan Upper,PK51601,Dassu
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK516,Kohistan Upper,PK51602,Kandia
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK516,Kohistan Upper,PK51603,Harban Basha
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK516,Kohistan Upper,PK51604,Seo
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK517,Kolai Palas Kohistan,PK51701,Palas
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK517,Kolai Palas Kohistan,PK51702,Battera Kolai
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK518,Kurram,PK51801,Central Kurram
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK518,Kurram,PK51802,Lower Kurram
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK518,Kurram,PK51803,Upper Kurram
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK519,Lakki Marwat,PK51901,Lakki Marwat
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK519,Lakki Marwat,PK51902,Sarai Naurang
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK519,Lakki Marwat,PK51903,Bettani
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK520,Lower Dir,PK52001,Adenzai
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK520,Lower Dir,PK52002,Balambat
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK520,Lower Dir,PK52003,Lalqila
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK520,Lower Dir,PK52004,Munda
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK520,Lower Dir,PK52005,Samarbagh
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK520,Lower Dir,PK52006,Timergara
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK521,Malakand,PK52101,Bat Khela
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK521,Malakand,PK52102,Dargai
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK522,Mansehra,PK52201,Bala Kot
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK522,Mansehra,PK52202,Mansehra
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK522,Mansehra,PK52203,Oghi
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK522,Mansehra,PK52204,Baffa Pakhal
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK522,Mansehra,PK52205,Darband
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK523,Mardan,PK52301,Katlang
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK523,Mardan,PK52302,Mardan
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK523,Mardan,PK52303,Takht Bhai
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK523,Mardan,PK52304,Rustam
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK523,Mardan,PK52305,Garhi Kapura
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK524,Mohmand,PK52401,Ambar
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK524,Mohmand,PK52402,Baizai
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK524,Mohmand,PK52403,Halimzai
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK524,Mohmand,PK52404,Khwazai
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK524,Mohmand,PK52405,Pandiali
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK524,Mohmand,PK52406,Prang Ghar
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK524,Mohmand,PK52407,Safi
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK524,Mohmand,PK52408,Yaka Ghund
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK525,North Waziristan,PK52501,Data Khel
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK525,North Waziristan,PK52502,Dossali
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK525,North Waziristan,PK52503,Garyum
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK525,North Waziristan,PK52504,Ghulam Khan
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK525,North Waziristan,PK52505,Mir Ali
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK525,North Waziristan,PK52506,Miran Shah
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK525,North Waziristan,PK52507,Razmak
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK525,North Waziristan,PK52508,Shewa
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK525,North Waziristan,PK52509,Spinwam
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK525,North Waziristan,PK52510,Shawal
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK526,Nowshera,PK52601,Nowshera
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK526,Nowshera,PK52602,Pabbi
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK526,Nowshera,PK52603,Jehangira
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK527,Orakzai,PK52701,Central Orakzai
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK527,Orakzai,PK52702,Ismailzai
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK527,Orakzai,PK52703,Lower Orakzai
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK527,Orakzai,PK52704,Upper Orakzai
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK528,Peshawar,PK52801,Town-I
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK528,Peshawar,PK52802,Town-Ii
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK528,Peshawar,PK52803,Town-Iii
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK528,Peshawar,PK52804,Town-Iv
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK528,Peshawar,PK52805,Hassan Khel
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK529,Shangla,PK52901,Alpuri
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK529,Shangla,PK52902,Bisham
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK529,Shangla,PK52903,Chakisar
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK529,Shangla,PK52904,Makhuzai
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK529,Shangla,PK52905,Martoong
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK529,Shangla,PK52906,Puran
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK530,South Waziristan,PK53001,Birmal
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK530,South Waziristan,PK53002,Ladha
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK530,South Waziristan,PK53003,Makin
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK530,South Waziristan,PK53004,Sararogha
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK530,South Waziristan,PK53005,Serwakai
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK530,South Waziristan,PK53006,Tiarza
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK530,South Waziristan,PK53007,Toi Khulla
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK530,South Waziristan,PK53008,Wana
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK531,Swabi,PK53101,Lahor
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK531,Swabi,PK53102,Swabi
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK531,Swabi,PK53103,Topi
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK531,Swabi,PK53104,Razar
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK532,Swat,PK53201,Babuzai
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK532,Swat,PK53202,Bahrain
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK532,Swat,PK53203,Barikot
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK532,Swat,PK53204,Charbagh
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK532,Swat,PK53205,Kabal
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK532,Swat,PK53206,Kalam
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK532,Swat,PK53207,Khwaza Khela
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK532,Swat,PK53208,Matta Kharirai
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK532,Swat,PK53209,Matta Sebujni
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK533,Tank,PK53301,Tank
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK533,Tank,PK53302,Jandola
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK534,Tor Ghar,PK53401,Judba
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK534,Tor Ghar,PK53402,Khander
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK535,Upper Dir,PK53501,Barawal
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK535,Upper Dir,PK53502,Dir
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK535,Upper Dir,PK53503,Kalkot
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK535,Upper Dir,PK53504,Khall
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK535,Upper Dir,PK53505,Shrengal
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK535,Upper Dir,PK53506,Wari
+PK,Pakistan,PK5,Khyber Pakhtunkhwa,PK535,Upper Dir,PK53507,Larjam
+PK,Pakistan,PK6,Punjab,PK601,Attock,PK60101,Attock
+PK,Pakistan,PK6,Punjab,PK601,Attock,PK60102,Fateh Jang
+PK,Pakistan,PK6,Punjab,PK601,Attock,PK60103,Hasan Abdal
+PK,Pakistan,PK6,Punjab,PK601,Attock,PK60104,Hazro
+PK,Pakistan,PK6,Punjab,PK601,Attock,PK60105,Jand
+PK,Pakistan,PK6,Punjab,PK601,Attock,PK60106,Pindi Gheb
+PK,Pakistan,PK6,Punjab,PK602,Bahawalnagar,PK60201,Bahawalnagar
+PK,Pakistan,PK6,Punjab,PK602,Bahawalnagar,PK60202,Chishtian
+PK,Pakistan,PK6,Punjab,PK602,Bahawalnagar,PK60203,Fort Abbas
+PK,Pakistan,PK6,Punjab,PK602,Bahawalnagar,PK60204,Haroonabad
+PK,Pakistan,PK6,Punjab,PK602,Bahawalnagar,PK60205,Minchinabad
+PK,Pakistan,PK6,Punjab,PK603,Bahawalpur,PK60301,Ahmadpur East
+PK,Pakistan,PK6,Punjab,PK603,Bahawalpur,PK60302,Bahawalpur
+PK,Pakistan,PK6,Punjab,PK603,Bahawalpur,PK60303,Hasilpur
+PK,Pakistan,PK6,Punjab,PK603,Bahawalpur,PK60304,Khairpur Tamewali
+PK,Pakistan,PK6,Punjab,PK603,Bahawalpur,PK60305,Yazman
+PK,Pakistan,PK6,Punjab,PK604,Bhakkar,PK60401,Bhakkar
+PK,Pakistan,PK6,Punjab,PK604,Bhakkar,PK60402,Darya Khan
+PK,Pakistan,PK6,Punjab,PK604,Bhakkar,PK60403,Kalur Kot
+PK,Pakistan,PK6,Punjab,PK604,Bhakkar,PK60404,Mankera
+PK,Pakistan,PK6,Punjab,PK605,Chakwal,PK60501,Chakwal
+PK,Pakistan,PK6,Punjab,PK605,Chakwal,PK60502,Choa Saidan Shah
+PK,Pakistan,PK6,Punjab,PK605,Chakwal,PK60503,Kallar Kahar
+PK,Pakistan,PK6,Punjab,PK605,Chakwal,PK60504,Tala Gang
+PK,Pakistan,PK6,Punjab,PK606,Chiniot,PK60601,Bhawana
+PK,Pakistan,PK6,Punjab,PK606,Chiniot,PK60602,Chiniot
+PK,Pakistan,PK6,Punjab,PK606,Chiniot,PK60603,Lalian
+PK,Pakistan,PK6,Punjab,PK607,Dera Ghazi Khan,PK60701,D.G Khan (Tribal Area)
+PK,Pakistan,PK6,Punjab,PK607,Dera Ghazi Khan,PK60702,Dera Ghazi Khan
+PK,Pakistan,PK6,Punjab,PK607,Dera Ghazi Khan,PK60703,Kot Chatta
+PK,Pakistan,PK6,Punjab,PK607,Dera Ghazi Khan,PK60704,Taunsa
+PK,Pakistan,PK6,Punjab,PK608,Faisalabad,PK60801,Chak Jhumra
+PK,Pakistan,PK6,Punjab,PK608,Faisalabad,PK60802,Faisalabad City
+PK,Pakistan,PK6,Punjab,PK608,Faisalabad,PK60803,Faisalabad Sadar
+PK,Pakistan,PK6,Punjab,PK608,Faisalabad,PK60804,Jaranwala
+PK,Pakistan,PK6,Punjab,PK608,Faisalabad,PK60805,Summundri
+PK,Pakistan,PK6,Punjab,PK608,Faisalabad,PK60806,Tandlian Wala
+PK,Pakistan,PK6,Punjab,PK609,Gujranwala,PK60901,Gujranwala
+PK,Pakistan,PK6,Punjab,PK609,Gujranwala,PK60902,Kamoke
+PK,Pakistan,PK6,Punjab,PK609,Gujranwala,PK60903,Nowshera Virkan
+PK,Pakistan,PK6,Punjab,PK609,Gujranwala,PK60904,Wazirabad
+PK,Pakistan,PK6,Punjab,PK610,Gujrat,PK61001,Gujrat
+PK,Pakistan,PK6,Punjab,PK610,Gujrat,PK61002,Kharian
+PK,Pakistan,PK6,Punjab,PK610,Gujrat,PK61003,Sarai Alamgir
+PK,Pakistan,PK6,Punjab,PK611,Hafizabad,PK61101,Hafizabad
+PK,Pakistan,PK6,Punjab,PK611,Hafizabad,PK61102,Pindi Bhattian
+PK,Pakistan,PK6,Punjab,PK612,Jhang,PK61201,Ahmadpur Sial
+PK,Pakistan,PK6,Punjab,PK612,Jhang,PK61202,Jhang
+PK,Pakistan,PK6,Punjab,PK612,Jhang,PK61203,Shorkot
+PK,Pakistan,PK6,Punjab,PK612,Jhang,PK61204,Athara Hazari
+PK,Pakistan,PK6,Punjab,PK613,Jhelum,PK61301,Dina
+PK,Pakistan,PK6,Punjab,PK613,Jhelum,PK61302,Jhelum
+PK,Pakistan,PK6,Punjab,PK613,Jhelum,PK61303,Pind Dadan Khan
+PK,Pakistan,PK6,Punjab,PK613,Jhelum,PK61304,Sohawa
+PK,Pakistan,PK6,Punjab,PK614,Kasur,PK61401,Chunian
+PK,Pakistan,PK6,Punjab,PK614,Kasur,PK61402,Kasur
+PK,Pakistan,PK6,Punjab,PK614,Kasur,PK61403,Kot Radha Kishen
+PK,Pakistan,PK6,Punjab,PK614,Kasur,PK61404,Pattoki
+PK,Pakistan,PK6,Punjab,PK615,Khanewal,PK61501,Jahanian
+PK,Pakistan,PK6,Punjab,PK615,Khanewal,PK61502,Kabirwala
+PK,Pakistan,PK6,Punjab,PK615,Khanewal,PK61503,Khanewal
+PK,Pakistan,PK6,Punjab,PK615,Khanewal,PK61504,Mian Channu
+PK,Pakistan,PK6,Punjab,PK616,Khushab,PK61601,Khushab
+PK,Pakistan,PK6,Punjab,PK616,Khushab,PK61602,Naushera
+PK,Pakistan,PK6,Punjab,PK616,Khushab,PK61603,Noorpur
+PK,Pakistan,PK6,Punjab,PK616,Khushab,PK61604,Quaidabad
+PK,Pakistan,PK6,Punjab,PK617,Lahore,PK61701,Lahore Cantt
+PK,Pakistan,PK6,Punjab,PK617,Lahore,PK61702,Lahore City
+PK,Pakistan,PK6,Punjab,PK618,Leiah,PK61801,Choubara
+PK,Pakistan,PK6,Punjab,PK618,Leiah,PK61802,Karor Lal Esan
+PK,Pakistan,PK6,Punjab,PK618,Leiah,PK61803,Leiah
+PK,Pakistan,PK6,Punjab,PK619,Lodhran,PK61901,Dunyapur
+PK,Pakistan,PK6,Punjab,PK619,Lodhran,PK61902,Kahror Pacca
+PK,Pakistan,PK6,Punjab,PK619,Lodhran,PK61903,Lodhran
+PK,Pakistan,PK6,Punjab,PK620,Mandi Bahauddin,PK62001,Malakwal
+PK,Pakistan,PK6,Punjab,PK620,Mandi Bahauddin,PK62002,Mandi Bahauddin
+PK,Pakistan,PK6,Punjab,PK620,Mandi Bahauddin,PK62003,Phalia
+PK,Pakistan,PK6,Punjab,PK621,Mianwali,PK62101,Isakhel
+PK,Pakistan,PK6,Punjab,PK621,Mianwali,PK62102,Mianwali
+PK,Pakistan,PK6,Punjab,PK621,Mianwali,PK62103,Piplan
+PK,Pakistan,PK6,Punjab,PK622,Multan,PK62201,Jalalpur Pirwala
+PK,Pakistan,PK6,Punjab,PK622,Multan,PK62202,Multan City
+PK,Pakistan,PK6,Punjab,PK622,Multan,PK62203,Multan Saddar
+PK,Pakistan,PK6,Punjab,PK622,Multan,PK62204,Shujabad
+PK,Pakistan,PK6,Punjab,PK623,Muzaffargarh,PK62301,Alipur
+PK,Pakistan,PK6,Punjab,PK623,Muzaffargarh,PK62302,Jatoi
+PK,Pakistan,PK6,Punjab,PK623,Muzaffargarh,PK62303,Kot Addu
+PK,Pakistan,PK6,Punjab,PK623,Muzaffargarh,PK62304,Muzaffargarh
+PK,Pakistan,PK6,Punjab,PK624,Nankana Sahib,PK62401,Nankana Sahib
+PK,Pakistan,PK6,Punjab,PK624,Nankana Sahib,PK62402,Sangla Hill
+PK,Pakistan,PK6,Punjab,PK624,Nankana Sahib,PK62403,Shah Kot
+PK,Pakistan,PK6,Punjab,PK625,Narowal,PK62501,Narowal
+PK,Pakistan,PK6,Punjab,PK625,Narowal,PK62502,Shakargarh
+PK,Pakistan,PK6,Punjab,PK625,Narowal,PK62503,Zafarwal
+PK,Pakistan,PK6,Punjab,PK626,Okara,PK62601,Depalpur
+PK,Pakistan,PK6,Punjab,PK626,Okara,PK62602,Okara
+PK,Pakistan,PK6,Punjab,PK626,Okara,PK62603,Renala Khurd
+PK,Pakistan,PK6,Punjab,PK627,Pakpattan,PK62701,Arif Wala
+PK,Pakistan,PK6,Punjab,PK627,Pakpattan,PK62702,Pakpattan
+PK,Pakistan,PK6,Punjab,PK628,Rahim Yar Khan,PK62801,Khanpur
+PK,Pakistan,PK6,Punjab,PK628,Rahim Yar Khan,PK62802,Liaqatpur
+PK,Pakistan,PK6,Punjab,PK628,Rahim Yar Khan,PK62803,Rahim Yar Khan
+PK,Pakistan,PK6,Punjab,PK628,Rahim Yar Khan,PK62804,Sadiqabad
+PK,Pakistan,PK6,Punjab,PK629,Rajanpur,PK62901,Jampur
+PK,Pakistan,PK6,Punjab,PK629,Rajanpur,PK62902,Rajanpur
+PK,Pakistan,PK6,Punjab,PK629,Rajanpur,PK62903,Rajanpur (Tribal Area)
+PK,Pakistan,PK6,Punjab,PK629,Rajanpur,PK62904,Rojhan
+PK,Pakistan,PK6,Punjab,PK630,Rawalpindi,PK63001,Gujar Khan
+PK,Pakistan,PK6,Punjab,PK630,Rawalpindi,PK63002,Kahuta
+PK,Pakistan,PK6,Punjab,PK630,Rawalpindi,PK63003,Kallar Sayaddan
+PK,Pakistan,PK6,Punjab,PK630,Rawalpindi,PK63004,Kotli Sattian
+PK,Pakistan,PK6,Punjab,PK630,Rawalpindi,PK63005,Murree
+PK,Pakistan,PK6,Punjab,PK630,Rawalpindi,PK63006,Rawalpindi
+PK,Pakistan,PK6,Punjab,PK630,Rawalpindi,PK63007,Taxila
+PK,Pakistan,PK6,Punjab,PK631,Sahiwal,PK63101,Chichawatni
+PK,Pakistan,PK6,Punjab,PK631,Sahiwal,PK63102,Sahiwal
+PK,Pakistan,PK6,Punjab,PK632,Sargodha,PK63201,Bhalwal
+PK,Pakistan,PK6,Punjab,PK632,Sargodha,PK63202,Kot Momin
+PK,Pakistan,PK6,Punjab,PK632,Sargodha,PK63203,Sahiwal
+PK,Pakistan,PK6,Punjab,PK632,Sargodha,PK63204,Sargodha
+PK,Pakistan,PK6,Punjab,PK632,Sargodha,PK63205,Shahpur
+PK,Pakistan,PK6,Punjab,PK632,Sargodha,PK63206,Sillanwali
+PK,Pakistan,PK6,Punjab,PK632,Sargodha,PK63207,Bhera
+PK,Pakistan,PK6,Punjab,PK633,Sheikhupura,PK63301,Ferozewala
+PK,Pakistan,PK6,Punjab,PK633,Sheikhupura,PK63302,Muridke
+PK,Pakistan,PK6,Punjab,PK633,Sheikhupura,PK63303,Safdarabad
+PK,Pakistan,PK6,Punjab,PK633,Sheikhupura,PK63304,Sharak Pur
+PK,Pakistan,PK6,Punjab,PK633,Sheikhupura,PK63305,Sheikhupura
+PK,Pakistan,PK6,Punjab,PK634,Sialkot,PK63401,Daska
+PK,Pakistan,PK6,Punjab,PK634,Sialkot,PK63402,Pasrur
+PK,Pakistan,PK6,Punjab,PK634,Sialkot,PK63403,Sambrial
+PK,Pakistan,PK6,Punjab,PK634,Sialkot,PK63404,Sialkot
+PK,Pakistan,PK6,Punjab,PK635,Toba Tek Singh,PK63501,Gojra
+PK,Pakistan,PK6,Punjab,PK635,Toba Tek Singh,PK63502,Kamalia
+PK,Pakistan,PK6,Punjab,PK635,Toba Tek Singh,PK63503,Toba Tek Singh
+PK,Pakistan,PK6,Punjab,PK635,Toba Tek Singh,PK63504,Pir Mahal
+PK,Pakistan,PK6,Punjab,PK636,Vehari,PK63601,Burewala
+PK,Pakistan,PK6,Punjab,PK636,Vehari,PK63602,Mailsi
+PK,Pakistan,PK6,Punjab,PK636,Vehari,PK63603,Vehari
+PK,Pakistan,PK7,Sindh,PK701,Badin,PK70101,Badin
+PK,Pakistan,PK7,Sindh,PK701,Badin,PK70102,Matli
+PK,Pakistan,PK7,Sindh,PK701,Badin,PK70103,Shaheed Fazil Rahu
+PK,Pakistan,PK7,Sindh,PK701,Badin,PK70104,Talhar
+PK,Pakistan,PK7,Sindh,PK701,Badin,PK70105,Tando Bago
+PK,Pakistan,PK7,Sindh,PK702,Central Karachi,PK70201,Gulberg Town
+PK,Pakistan,PK7,Sindh,PK702,Central Karachi,PK70202,Liaqatabad Town
+PK,Pakistan,PK7,Sindh,PK702,Central Karachi,PK70203,New Karachi Town
+PK,Pakistan,PK7,Sindh,PK702,Central Karachi,PK70204,North Nazimabad Town
+PK,Pakistan,PK7,Sindh,PK703,Dadu,PK70301,Dadu
+PK,Pakistan,PK7,Sindh,PK703,Dadu,PK70302,Johi
+PK,Pakistan,PK7,Sindh,PK703,Dadu,PK70303,Khairpur Nathan Shah
+PK,Pakistan,PK7,Sindh,PK703,Dadu,PK70304,Mehar
+PK,Pakistan,PK7,Sindh,PK704,East Karachi,PK70401,Gulshan Iqbal Town
+PK,Pakistan,PK7,Sindh,PK704,East Karachi,PK70402,Jamshaid Town
+PK,Pakistan,PK7,Sindh,PK705,Ghotki,PK70501,Daharki
+PK,Pakistan,PK7,Sindh,PK705,Ghotki,PK70502,Ghotki
+PK,Pakistan,PK7,Sindh,PK705,Ghotki,PK70503,Khangarh
+PK,Pakistan,PK7,Sindh,PK705,Ghotki,PK70504,Mirpur Mathelo
+PK,Pakistan,PK7,Sindh,PK705,Ghotki,PK70505,Ubauro
+PK,Pakistan,PK7,Sindh,PK706,Hyderabad,PK70601,Hyderabad
+PK,Pakistan,PK7,Sindh,PK706,Hyderabad,PK70602,Hyderabad City
+PK,Pakistan,PK7,Sindh,PK706,Hyderabad,PK70603,Latifabad
+PK,Pakistan,PK7,Sindh,PK706,Hyderabad,PK70604,Qasimabad
+PK,Pakistan,PK7,Sindh,PK707,Jacobabad,PK70701,Garhi Khairo
+PK,Pakistan,PK7,Sindh,PK707,Jacobabad,PK70702,Jacobabad
+PK,Pakistan,PK7,Sindh,PK707,Jacobabad,PK70703,Thul
+PK,Pakistan,PK7,Sindh,PK708,Jamshoro,PK70801,Kotri
+PK,Pakistan,PK7,Sindh,PK708,Jamshoro,PK70802,Manjhand
+PK,Pakistan,PK7,Sindh,PK708,Jamshoro,PK70803,Sehwan Sharif
+PK,Pakistan,PK7,Sindh,PK708,Jamshoro,PK70804,Thano Bula Khan
+PK,Pakistan,PK7,Sindh,PK709,Kambar Shahdad Kot,PK70901,Meero Khan
+PK,Pakistan,PK7,Sindh,PK709,Kambar Shahdad Kot,PK70902,Nasir Abad
+PK,Pakistan,PK7,Sindh,PK709,Kambar Shahdad Kot,PK70903,Qambar Ali Khan
+PK,Pakistan,PK7,Sindh,PK709,Kambar Shahdad Kot,PK70904,Qubo Saeed Khan
+PK,Pakistan,PK7,Sindh,PK709,Kambar Shahdad Kot,PK70905,Shahdad Kot
+PK,Pakistan,PK7,Sindh,PK709,Kambar Shahdad Kot,PK70906,Sijawal Junejo
+PK,Pakistan,PK7,Sindh,PK709,Kambar Shahdad Kot,PK70907,Warah
+PK,Pakistan,PK7,Sindh,PK710,Kashmore,PK71001,Kandh Kot
+PK,Pakistan,PK7,Sindh,PK710,Kashmore,PK71002,Kashmore
+PK,Pakistan,PK7,Sindh,PK710,Kashmore,PK71003,Tangwani
+PK,Pakistan,PK7,Sindh,PK711,Khairpur,PK71101,Faiz Ganj
+PK,Pakistan,PK7,Sindh,PK711,Khairpur,PK71102,Gambat
+PK,Pakistan,PK7,Sindh,PK711,Khairpur,PK71103,Khairpur
+PK,Pakistan,PK7,Sindh,PK711,Khairpur,PK71104,Kingri
+PK,Pakistan,PK7,Sindh,PK711,Khairpur,PK71105,Kot Diji
+PK,Pakistan,PK7,Sindh,PK711,Khairpur,PK71106,Nara
+PK,Pakistan,PK7,Sindh,PK711,Khairpur,PK71107,Sobho Dero
+PK,Pakistan,PK7,Sindh,PK711,Khairpur,PK71108,Thari Meer Wah
+PK,Pakistan,PK7,Sindh,PK712,Korangi Karachi,PK71201,Korangi Town
+PK,Pakistan,PK7,Sindh,PK712,Korangi Karachi,PK71202,Landhi Town
+PK,Pakistan,PK7,Sindh,PK712,Korangi Karachi,PK71203,Shah Faisal Town
+PK,Pakistan,PK7,Sindh,PK713,Larkana,PK71301,Baqrani
+PK,Pakistan,PK7,Sindh,PK713,Larkana,PK71302,Dokri
+PK,Pakistan,PK7,Sindh,PK713,Larkana,PK71303,Larkana
+PK,Pakistan,PK7,Sindh,PK713,Larkana,PK71304,Rato Dero
+PK,Pakistan,PK7,Sindh,PK714,Malir Karachi,PK71401,Bin Qasim Town
+PK,Pakistan,PK7,Sindh,PK714,Malir Karachi,PK71402,Gadap Town
+PK,Pakistan,PK7,Sindh,PK714,Malir Karachi,PK71403,Malir Town
+PK,Pakistan,PK7,Sindh,PK715,Matiari,PK71501,Hala
+PK,Pakistan,PK7,Sindh,PK715,Matiari,PK71502,Matiari
+PK,Pakistan,PK7,Sindh,PK715,Matiari,PK71503,Saeedabad
+PK,Pakistan,PK7,Sindh,PK716,Mirpur Khas,PK71601,Digri
+PK,Pakistan,PK7,Sindh,PK716,Mirpur Khas,PK71602,Hussain Bux Muree
+PK,Pakistan,PK7,Sindh,PK716,Mirpur Khas,PK71603,Jhudo
+PK,Pakistan,PK7,Sindh,PK716,Mirpur Khas,PK71604,Kot Ghulam Muhammad
+PK,Pakistan,PK7,Sindh,PK716,Mirpur Khas,PK71605,Mirpur Khas
+PK,Pakistan,PK7,Sindh,PK716,Mirpur Khas,PK71606,Shuja Abad
+PK,Pakistan,PK7,Sindh,PK716,Mirpur Khas,PK71607,Sindhri
+PK,Pakistan,PK7,Sindh,PK717,Naushahro Feroze,PK71701,Bhiria
+PK,Pakistan,PK7,Sindh,PK717,Naushahro Feroze,PK71702,Kandiaro
+PK,Pakistan,PK7,Sindh,PK717,Naushahro Feroze,PK71703,Mehrab Pur
+PK,Pakistan,PK7,Sindh,PK717,Naushahro Feroze,PK71704,Moro
+PK,Pakistan,PK7,Sindh,PK717,Naushahro Feroze,PK71705,Naushahro Feroze
+PK,Pakistan,PK7,Sindh,PK718,Sanghar,PK71801,Jam Nawaz Ali
+PK,Pakistan,PK7,Sindh,PK718,Sanghar,PK71802,Khipro
+PK,Pakistan,PK7,Sindh,PK718,Sanghar,PK71803,Sanghar
+PK,Pakistan,PK7,Sindh,PK718,Sanghar,PK71804,Shahdadpur
+PK,Pakistan,PK7,Sindh,PK718,Sanghar,PK71805,Sinjhoro
+PK,Pakistan,PK7,Sindh,PK718,Sanghar,PK71806,Tando Adam
+PK,Pakistan,PK7,Sindh,PK719,Shaheed Benazir Abad,PK71901,Daulat Pur
+PK,Pakistan,PK7,Sindh,PK719,Shaheed Benazir Abad,PK71902,Daur
+PK,Pakistan,PK7,Sindh,PK719,Shaheed Benazir Abad,PK71903,Nawabshah
+PK,Pakistan,PK7,Sindh,PK719,Shaheed Benazir Abad,PK71904,Sakrand
+PK,Pakistan,PK7,Sindh,PK720,Shikarpur,PK72001,Garhi Yasin
+PK,Pakistan,PK7,Sindh,PK720,Shikarpur,PK72002,Khanpur
+PK,Pakistan,PK7,Sindh,PK720,Shikarpur,PK72003,Lakhi
+PK,Pakistan,PK7,Sindh,PK720,Shikarpur,PK72004,Shikarpur
+PK,Pakistan,PK7,Sindh,PK721,South Karachi,PK72101,Kemari Town
+PK,Pakistan,PK7,Sindh,PK721,South Karachi,PK72102,Liyari Town
+PK,Pakistan,PK7,Sindh,PK721,South Karachi,PK72103,Saddar Town
+PK,Pakistan,PK7,Sindh,PK722,Sujawal,PK72201,Jati
+PK,Pakistan,PK7,Sindh,PK722,Sujawal,PK72202,Kharo Chan
+PK,Pakistan,PK7,Sindh,PK722,Sujawal,PK72203,Mirpur Bathoro
+PK,Pakistan,PK7,Sindh,PK722,Sujawal,PK72204,Shah Bunder
+PK,Pakistan,PK7,Sindh,PK722,Sujawal,PK72205,Sujawal
+PK,Pakistan,PK7,Sindh,PK723,Sukkur,PK72301,New Sukkur
+PK,Pakistan,PK7,Sindh,PK723,Sukkur,PK72302,Pano Aqil
+PK,Pakistan,PK7,Sindh,PK723,Sukkur,PK72303,Rohri
+PK,Pakistan,PK7,Sindh,PK723,Sukkur,PK72304,Salehpat
+PK,Pakistan,PK7,Sindh,PK723,Sukkur,PK72305,Sukkur
+PK,Pakistan,PK7,Sindh,PK724,Tando Allahyar,PK72401,Chamber
+PK,Pakistan,PK7,Sindh,PK724,Tando Allahyar,PK72402,Jhando Mari
+PK,Pakistan,PK7,Sindh,PK724,Tando Allahyar,PK72403,Tando Allahyar
+PK,Pakistan,PK7,Sindh,PK725,Tando Muhammad Khan,PK72501,Bulri Shah Karim
+PK,Pakistan,PK7,Sindh,PK725,Tando Muhammad Khan,PK72502,Tando Ghulam Hyder
+PK,Pakistan,PK7,Sindh,PK725,Tando Muhammad Khan,PK72503,Tando Muhammad Khan
+PK,Pakistan,PK7,Sindh,PK726,Tharparkar,PK72601,Chachro
+PK,Pakistan,PK7,Sindh,PK726,Tharparkar,PK72602,Dahli
+PK,Pakistan,PK7,Sindh,PK726,Tharparkar,PK72603,Diplo
+PK,Pakistan,PK7,Sindh,PK726,Tharparkar,PK72604,Islam Kot
+PK,Pakistan,PK7,Sindh,PK726,Tharparkar,PK72605,Mithi
+PK,Pakistan,PK7,Sindh,PK726,Tharparkar,PK72606,Nagar Parkar
+PK,Pakistan,PK7,Sindh,PK726,Tharparkar,PK72607,Kaloi
+PK,Pakistan,PK7,Sindh,PK727,Thatta,PK72701,Ghorabari
+PK,Pakistan,PK7,Sindh,PK727,Thatta,PK72702,Keti Bunder
+PK,Pakistan,PK7,Sindh,PK727,Thatta,PK72703,Mirpur Sakro
+PK,Pakistan,PK7,Sindh,PK727,Thatta,PK72704,Thatta
+PK,Pakistan,PK7,Sindh,PK728,Umer Kot,PK72801,Kunri
+PK,Pakistan,PK7,Sindh,PK728,Umer Kot,PK72802,Pithoro
+PK,Pakistan,PK7,Sindh,PK728,Umer Kot,PK72803,Samaro
+PK,Pakistan,PK7,Sindh,PK728,Umer Kot,PK72804,Umer Kot
+PK,Pakistan,PK7,Sindh,PK729,West Karachi,PK72901,Baldia Town
+PK,Pakistan,PK7,Sindh,PK729,West Karachi,PK72902,Orangi Town
+PK,Pakistan,PK7,Sindh,PK729,West Karachi,PK72903,Site Town
